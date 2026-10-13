@@ -1,3 +1,5 @@
-2026/10/13-15:56:34.952 26e48 Reusing MANIFEST C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/13-15:56:34.953 26e48 Recovering log #3
-2026/10/13-15:56:34.954 26e48 Reusing old log C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/10/13-18:37:55.786 1c88 Log #3: 10 ops saved to Table #4 OK
+2026/10/13-18:37:55.795 1c88 Archiving C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/10/13-18:37:55.796 1c88 Table #4: 10 entries OK
+2026/10/13-18:37:55.797 1c88 Archiving C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/13-18:37:55.810 1c88 **** Repaired leveldb C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 288 bytes. Some data may have been lost. ****
