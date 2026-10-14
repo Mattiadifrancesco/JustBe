@@ -1,5 +1,1 @@
-2026/10/13-18:37:55.786 1c88 Log #3: 10 ops saved to Table #4 OK
-2026/10/13-18:37:55.795 1c88 Archiving C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/10/13-18:37:55.796 1c88 Table #4: 10 entries OK
-2026/10/13-18:37:55.797 1c88 Archiving C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/13-18:37:55.810 1c88 **** Repaired leveldb C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 288 bytes. Some data may have been lost. ****
+2026/10/13-18:37:55.824 1c88 Reusing MANIFEST C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
