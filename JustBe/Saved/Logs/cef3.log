@@ -1,15 +1,11 @@
-[178132:31820:1015/100516.330:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[178132:31820:1015/100516.419:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
-[178132:40636:1015/100516.509:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[178132:31820:1015/100516.583:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[64824:78924:1015/100520.530:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-73C68BBA51E8CC68403558C5D60B268B will be ignored
-[53756:190272:1015/100521.526:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[53756:190272:1015/100521.858:ERROR:backend_impl.cc(989)] Critical error found -8
-[53756:190272:1015/100521.858:WARNING:storage_block-inl.h(138)] Failed data load.
-[53756:190272:1015/100521.858:WARNING:storage_block-inl.h(138)] Failed data load.
-[53756:190272:1015/100521.858:ERROR:entry_impl.cc(1029)] No file for b202007c
-[53756:190272:1015/100521.858:WARNING:storage_block-inl.h(138)] Failed data load.
-[53756:190272:1015/100522.545:WARNING:storage_block-inl.h(138)] Failed data load.
-[53756:190272:1015/100522.545:WARNING:storage_block-inl.h(138)] Failed data load.
-[53756:190272:1015/100522.545:WARNING:storage_block-inl.h(138)] Failed data load.
-[178132:31820:1015/170841.261:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[38504:230472:1015/172541.205:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[38504:49204:1015/172541.248:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[38504:230472:1015/172541.269:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[38504:71940:1015/172542.901:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[38504:71940:1015/172542.903:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[38504:71940:1015/172542.904:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[38504:71940:1015/172542.905:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[38504:69908:1015/172543.153:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[38504:69908:1015/172543.154:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[55100:48760:1015/172545.257:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5B9D6B9B0FAE6D43C5062D3EE40842DC will be ignored
+[38504:230472:1015/175117.024:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
