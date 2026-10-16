@@ -1,0 +1,18 @@
+[5932:36040:1016/094919.696:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5932:36040:1016/094919.795:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
+[5932:21072:1016/094919.867:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5932:36040:1016/094919.929:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5932:9012:1016/094923.265:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5932:9012:1016/094923.268:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5932:9012:1016/094923.269:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5932:9012:1016/094923.271:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29744:31548:1016/094924.613:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[5932:35816:1016/094924.618:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5932:35816:1016/094924.624:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29744:31548:1016/094925.280:ERROR:backend_impl.cc(989)] Critical error found -8
+[29744:31548:1016/094925.280:WARNING:storage_block-inl.h(138)] Failed data load.
+[29744:31548:1016/094925.280:ERROR:entry_impl.cc(1029)] No file for b2020034
+[29744:31548:1016/094925.281:WARNING:storage_block-inl.h(138)] Failed data load.
+[29744:30388:1016/094925.300:WARNING:cache_util.cc(144)] Unable to delete cache folder.
+[30416:31568:1016/094926.612:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BF043D6C4B39628305CC124CD5D15303 will be ignored
+[5932:36040:1016/105051.655:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
