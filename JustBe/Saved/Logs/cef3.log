@@ -1,13 +1,23 @@
-[6580:15508:1017/131052.865:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6580:15508:1017/131053.023:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
-[6580:17440:1017/131053.144:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6580:15508:1017/131053.245:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6580:19356:1017/131057.263:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6580:19356:1017/131057.265:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6580:19356:1017/131057.268:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6580:19356:1017/131057.271:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6580:17440:1017/131057.681:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6580:17440:1017/131057.689:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1532:11160:1017/131058.336:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6C96C4EAE930C48FDC39BE5303C040F6 will be ignored
-[6580:19264:1017/131107.370:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[6580:15508:1017/154202.549:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16308:7564:1017/174629.553:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16308:7564:1017/174629.636:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
+[16308:11960:1017/174629.708:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16308:7564:1017/174629.779:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16308:11960:1017/174637.191:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16308:11960:1017/174637.194:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16308:12880:1017/174637.196:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16308:12880:1017/174637.199:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16308:12880:1017/174637.785:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16308:12880:1017/174637.791:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14160:10268:1017/174640.849:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[14160:10268:1017/174640.850:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14160:10268:1017/174640.903:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[14160:10268:1017/174640.904:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16308:7564:1017/174642.646:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[16308:7564:1017/174647.655:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14160:10268:1017/174649.025:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14160:10268:1017/174651.554:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14160:10268:1017/174657.113:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14160:10268:1017/174705.316:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16308:12796:1017/180120.385:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16308:12796:1017/180321.215:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16308:7564:1017/193824.867:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
