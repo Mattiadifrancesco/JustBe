@@ -1,3 +1,6 @@
-2026/10/20-11:49:03.653 b74 Reusing MANIFEST C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/20-11:49:03.658 b74 Recovering log #3
-2026/10/20-11:49:03.662 b74 Reusing old log C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/10/20-11:55:04.959 8f9c Reusing MANIFEST C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/20-11:55:04.963 8f9c Recovering log #3
+2026/10/20-11:55:04.968 8f9c Reusing old log C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/10/20-12:12:13.199 9a80 Level-0 table #5: started
+2026/10/20-12:12:13.205 9a80 Level-0 table #5: 63699 bytes OK
+2026/10/20-12:12:13.209 9a80 Delete type=0 #3
