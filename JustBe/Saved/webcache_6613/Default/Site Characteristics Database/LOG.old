@@ -1,3 +1,8 @@
-2026/10/19-19:19:09.621 302c Reusing MANIFEST C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/19-19:19:09.622 302c Recovering log #12
-2026/10/19-19:19:09.623 302c Reusing old log C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/10/20-10:04:20.091 4a40 Log #12: 2 ops saved to Table #13 OK
+2026/10/20-10:04:20.092 4a40 Archiving C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000012.log: OK
+2026/10/20-10:04:20.093 4a40 Table #4: 10 entries OK
+2026/10/20-10:04:20.093 4a40 Table #7: 5 entries OK
+2026/10/20-10:04:20.093 4a40 Table #10: 3 entries OK
+2026/10/20-10:04:20.093 4a40 Table #13: 2 entries OK
+2026/10/20-10:04:20.095 4a40 Archiving C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/20-10:04:20.106 4a40 **** Repaired leveldb C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 4 files; 889 bytes. Some data may have been lost. ****
