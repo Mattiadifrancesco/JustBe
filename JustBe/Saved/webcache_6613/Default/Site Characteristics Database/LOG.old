@@ -1,3 +1,9 @@
-2026/10/20-09:48:57.532 4a50 Reusing MANIFEST C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/20-09:48:57.541 4a50 Recovering log #12
-2026/10/20-09:48:57.542 4a50 Reusing old log C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/10/20-11:45:09.301 288c Reusing MANIFEST C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/20-11:45:09.302 9364 Compacting 4@0 + 0@1 files
+2026/10/20-11:45:09.314 9364 Generated table #16@0: 2 keys, 194 bytes
+2026/10/20-11:45:09.314 9364 Compacted 4@0 + 0@1 files => 194 bytes
+2026/10/20-11:45:09.318 9364 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/10/20-11:45:09.319 9364 Delete type=2 #4
+2026/10/20-11:45:09.319 9364 Delete type=2 #7
+2026/10/20-11:45:09.319 9364 Delete type=2 #10
+2026/10/20-11:45:09.319 9364 Delete type=2 #13
