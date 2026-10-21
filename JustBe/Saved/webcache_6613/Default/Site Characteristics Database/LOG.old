@@ -1,6 +1,7 @@
-2026/10/20-21:33:50.121 8ec Log #15: 3 ops saved to Table #17 OK
-2026/10/20-21:33:50.123 8ec Archiving C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000015.log: OK
-2026/10/20-21:33:50.123 8ec Table #16: 2 entries OK
-2026/10/20-21:33:50.124 8ec Table #17: 3 entries OK
-2026/10/20-21:33:50.126 8ec Archiving C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/20-21:33:50.139 8ec **** Repaired leveldb C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 388 bytes. Some data may have been lost. ****
+2026/10/21-10:09:22.377 4228 Log #19: 1 ops saved to Table #20 OK
+2026/10/21-10:09:22.380 4228 Archiving C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000019.log: OK
+2026/10/21-10:09:22.380 4228 Table #16: 2 entries OK
+2026/10/21-10:09:22.380 4228 Table #17: 3 entries OK
+2026/10/21-10:09:22.380 4228 Table #20: 1 entries OK
+2026/10/21-10:09:22.384 4228 Archiving C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/21-10:09:22.391 4228 **** Repaired leveldb C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 553 bytes. Some data may have been lost. ****
