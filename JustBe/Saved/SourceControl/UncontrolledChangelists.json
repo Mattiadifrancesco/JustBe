@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/MicheleAssets/MIcio/Chimney/Chimney.uasset",
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/MicheleAssets/BrickMaterials/Materials/M_Master_BrickMats.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Blueprint/BP_PlayerCharacter.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Blueprint/Actors/BP_MaskPickup.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Input/IMC_MainCharacter.uasset",
@@ -127,7 +130,6 @@
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Sprites/Villagers/VillagersMan4_Sprite.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Sprites/Villagers/VillagersMan5_Sprite.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Sprites/Villagers/VillagersMan6_Sprite.uasset",
-				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/TommasoContent/VFX/VFX_ColorBeam.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/TommasoContent/VFX/VFX_PlayerColorGather.uasset",
 				"C:/Users/matti/Level Design/JustBe/JustBe/Content/MyContent/Blueprint/Character/BP_CharacterProjectile.uasset",
