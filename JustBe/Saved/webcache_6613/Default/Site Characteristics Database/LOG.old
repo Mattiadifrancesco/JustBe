@@ -1,7 +1,1 @@
-2026/10/21-10:04:58.541 6a98 Log #19: 1 ops saved to Table #20 OK
-2026/10/21-10:04:58.543 6a98 Archiving C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000019.log: OK
-2026/10/21-10:04:58.543 6a98 Table #16: 2 entries OK
-2026/10/21-10:04:58.544 6a98 Table #17: 3 entries OK
-2026/10/21-10:04:58.544 6a98 Table #20: 1 entries OK
-2026/10/21-10:04:58.547 6a98 Archiving C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/21-10:04:58.558 6a98 **** Repaired leveldb C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 553 bytes. Some data may have been lost. ****
+2026/10/21-10:04:58.566 6a98 Reusing MANIFEST C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
