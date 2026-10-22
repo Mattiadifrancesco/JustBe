@@ -1,40 +1,12 @@
-[28240:21468:1022/092208.018:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28240:21468:1022/092208.030:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
-[28240:21416:1022/092208.059:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[28240:21468:1022/092208.084:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28240:9192:1022/092209.973:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28240:9192:1022/092209.974:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28240:9192:1022/092209.976:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28240:9192:1022/092209.977:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28240:9192:1022/092210.223:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28240:9192:1022/092210.227:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[32848:39632:1022/092213.665:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AE0A4957A64706128A63DA39BD2009EE will be ignored
-[28240:15948:1022/094040.239:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[23344:1752:1022/094040.240:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28240:15948:1022/094045.240:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[23344:28088:1022/094045.253:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28240:21468:1022/094048.859:ERROR:device_event_log_impl.cc(196)] [09:40:48.810] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[28240:21468:1022/094048.859:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[28240:21468:1022/094048.859:ERROR:device_event_log_impl.cc(196)] [09:40:48.869] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_2563&pid_0575#5&34470fc&0&8#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[28240:21468:1022/094052.242:ERROR:device_event_log_impl.cc(196)] [09:40:52.021] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[28240:9192:1022/094055.241:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[23344:28088:1022/094055.254:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28240:21468:1022/094111.027:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
-[28240:21468:1022/094111.027:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
-[28240:21468:1022/094111.027:ERROR:device_event_log_impl.cc(196)] [09:41:11.043] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_045e&pid_028e#5&34470fc&0&8#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[28240:21468:1022/094112.992:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[28240:21468:1022/094112.992:ERROR:device_event_log_impl.cc(196)] [09:41:12.992] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_0bda&pid_1a2b#5&34470fc&0&8#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[28240:15948:1022/094115.239:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[23344:28088:1022/094115.264:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28240:21468:1022/094115.994:ERROR:device_event_log_impl.cc(196)] [09:41:15.793] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[28240:15948:1022/094123.538:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[23344:1752:1022/094123.540:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28240:21468:1022/094123.697:ERROR:device_event_log_impl.cc(196)] [09:41:23.700] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 23}) failed: Impossibile trovare elemento. (0x490)
-[28240:21468:1022/094124.028:ERROR:device_event_log_impl.cc(196)] [09:41:23.707] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[28240:9192:1022/094128.539:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[23344:28088:1022/094128.546:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28240:21468:1022/113008.771:ERROR:device_event_log_impl.cc(196)] [11:30:08.757] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[28240:21468:1022/113008.771:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[28240:21468:1022/113008.771:ERROR:device_event_log_impl.cc(196)] [11:30:08.773] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_2563&pid_0575#5&34470fc&0&1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[28240:21468:1022/113009.511:ERROR:device_event_log_impl.cc(196)] [11:30:09.493] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[28240:21468:1022/152752.703:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24792:28308:1022/153702.668:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24792:28308:1022/153702.705:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
+[24792:8104:1022/153702.735:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24792:28308:1022/153702.756:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24792:8104:1022/153705.047:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24792:8104:1022/153705.049:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24792:8104:1022/153705.052:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24792:8104:1022/153705.053:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24792:12156:1022/153705.325:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24792:12156:1022/153705.329:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14560:7100:1022/153706.223:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-010E4737461CA67F035B30969A1CD250 will be ignored
+[24792:28308:1022/153756.680:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

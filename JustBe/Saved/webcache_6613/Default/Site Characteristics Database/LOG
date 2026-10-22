@@ -1,3 +1,10 @@
-2026/10/22-09:22:08.095 7510 Reusing MANIFEST C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/22-09:22:08.097 7510 Recovering log #22
-2026/10/22-09:22:08.098 7510 Reusing old log C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000022.log 
+2026/10/22-15:37:02.777 82c Reusing MANIFEST C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/22-15:37:02.784 82c Recovering log #22
+2026/10/22-15:37:02.784 82c Level-0 table #28: started
+2026/10/22-15:37:02.791 82c Level-0 table #28: 208 bytes OK
+2026/10/22-15:37:02.796 82c Recovering log #25
+2026/10/22-15:37:02.796 82c Reusing old log C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000025.log 
+2026/10/22-15:37:02.798 82c Delete type=2 #16
+2026/10/22-15:37:02.798 82c Delete type=2 #17
+2026/10/22-15:37:02.798 82c Delete type=2 #20
+2026/10/22-15:37:02.798 82c Delete type=0 #22
