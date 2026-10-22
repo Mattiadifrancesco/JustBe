@@ -1,11 +1,63 @@
-[20060:25568:1021/111619.572:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20060:23644:1021/111619.631:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20060:25568:1021/111619.656:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20060:32116:1021/111621.574:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20060:32116:1021/111621.577:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20060:32116:1021/111621.579:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20060:32116:1021/111621.581:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20060:23236:1021/111621.838:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20060:23236:1021/111621.839:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[31568:38488:1021/111622.471:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0AC84356947B3E5723BAC472E40521B5 will be ignored
-[20060:25568:1021/165838.300:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[936:39012:1022/094623.963:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[936:31284:1022/094624.194:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[936:39012:1022/094624.270:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[936:31808:1022/094627.865:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[936:31808:1022/094627.866:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[936:31808:1022/094627.868:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[936:31808:1022/094627.869:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[936:32720:1022/094628.262:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[936:32720:1022/094628.264:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[39320:4680:1022/094628.324:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[24712:7268:1022/094628.835:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2EF8975AF667EF6FAB0B24A9E14D66AB will be ignored
+[39320:4680:1022/094632.380:ERROR:backend_impl.cc(989)] Critical error found -8
+[39320:4680:1022/094632.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.381:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.381:ERROR:entry_impl.cc(1029)] No file for b202002c
+[39320:4680:1022/094632.382:ERROR:entry_impl.cc(955)] Failed to save user data
+[39320:4680:1022/094632.382:ERROR:entry_impl.cc(955)] Failed to save user data
+[39320:4680:1022/094632.382:WARNING:storage_block-inl.h(138)] Failed data load.
+[39320:4680:1022/094632.382:ERROR:entry_impl.cc(955)] Failed to save user data
+[936:39012:1022/102824.853:ERROR:device_event_log_impl.cc(196)] [10:28:24.845] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[936:31808:1022/102912.643:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:14948:1022/102912.649:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102915.496:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102915.560:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102915.563:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:32720:1022/102915.607:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102915.659:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102915.660:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102920.662:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102920.669:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:39012:1022/102920.798:ERROR:device_event_log_impl.cc(196)] [10:29:20.791] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[936:31808:1022/102930.666:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102930.675:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102934.986:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102934.986:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:32720:1022/102939.256:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102939.264:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:39012:1022/102941.341:ERROR:device_event_log_impl.cc(196)] [10:29:41.132] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[936:31808:1022/102944.259:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102944.282:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102953.431:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/102953.443:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:14948:1022/102955.082:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102955.088:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:32720:1022/102955.119:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:14948:1022/102955.145:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/102955.146:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/103000.149:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/103000.159:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:39012:1022/103000.677:ERROR:device_event_log_impl.cc(196)] [10:30:00.431] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[936:32720:1022/103005.178:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:31808:1022/103009.431:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/103009.434:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[936:39012:1022/103011.344:ERROR:device_event_log_impl.cc(196)] [10:30:11.316] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
+[936:31808:1022/103014.438:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:16800:1022/103014.453:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[39320:32332:1022/103057.176:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[39320:32332:1022/103103.962:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[936:39012:1022/152755.956:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

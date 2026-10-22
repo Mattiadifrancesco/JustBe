@@ -1,3 +1,8 @@
-2026/10/21-10:08:35.113 5958 Reusing MANIFEST C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/10/21-10:08:35.115 5958 Recovering log #22
-2026/10/21-10:08:35.116 5958 Reusing old log C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000022.log 
+2026/10/22-09:46:24.324 809c Log #22: 3 ops saved to Table #23 OK
+2026/10/22-09:46:24.326 809c Archiving C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000022.log: OK
+2026/10/22-09:46:24.329 809c Table #16: 2 entries OK
+2026/10/22-09:46:24.330 809c Table #17: 3 entries OK
+2026/10/22-09:46:24.333 809c Table #20: 1 entries OK
+2026/10/22-09:46:24.334 809c Table #23: 3 entries OK
+2026/10/22-09:46:24.339 809c Archiving C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/22-09:46:24.345 809c **** Repaired leveldb C:\Users\PC_A289\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 4 files; 748 bytes. Some data may have been lost. ****
