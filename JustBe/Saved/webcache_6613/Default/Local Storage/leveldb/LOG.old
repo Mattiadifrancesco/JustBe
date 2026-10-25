@@ -1,2 +1,15 @@
-2026/10/23-10:12:44.626 5028 Creating DB C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/10/23-10:12:44.645 5028 Reusing MANIFEST C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/25-11:31:13.526 14dc Reusing MANIFEST C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/25-11:31:13.546 14dc Recovering log #3
+2026/10/25-11:31:13.549 14dc Reusing old log C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/10/25-12:58:51.687 cb0 Level-0 table #5: started
+2026/10/25-12:58:51.693 cb0 Level-0 table #5: 66437 bytes OK
+2026/10/25-12:58:51.696 cb0 Delete type=0 #3
+2026/10/25-13:01:51.689 cb0 Level-0 table #7: started
+2026/10/25-13:01:51.695 cb0 Level-0 table #7: 70138 bytes OK
+2026/10/25-13:01:51.698 cb0 Delete type=0 #4
+2026/10/25-13:04:51.685 cb0 Level-0 table #9: started
+2026/10/25-13:04:51.689 cb0 Level-0 table #9: 75238 bytes OK
+2026/10/25-13:04:51.691 cb0 Delete type=0 #6
+2026/10/25-13:08:51.685 cb0 Level-0 table #11: started
+2026/10/25-13:08:51.690 cb0 Level-0 table #11: 75556 bytes OK
+2026/10/25-13:08:51.692 cb0 Delete type=0 #8
