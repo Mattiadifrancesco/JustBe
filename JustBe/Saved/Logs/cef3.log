@@ -1,23 +1,36 @@
-[5064:276:1024/133437.553:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5064:276:1024/133437.715:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
-[5064:6636:1024/133437.835:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[5064:276:1024/133437.943:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5064:4780:1024/133442.719:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5064:4780:1024/133442.721:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5064:4780:1024/133442.723:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5064:4780:1024/133442.726:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5064:7332:1024/133443.226:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5064:7332:1024/133443.240:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[3000:11032:1024/133443.852:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-16E933C51C199463B702382A80EBA989 will be ignored
-[5064:22776:1024/133444.707:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5064:276:1024/141201.853:ERROR:device_event_log_impl.cc(196)] [14:12:01.852] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Impossibile trovare elemento. (0x490)
-[5064:22776:1024/144638.154:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5064:22776:1024/154455.721:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5064:276:1024/160658.449:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[5064:276:1024/160658.450:ERROR:device_event_log_impl.cc(196)] [16:06:58.449] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_04e8&pid_6860#r3cwb0e1cfy#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[5064:276:1024/175245.617:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[5064:276:1024/175245.618:ERROR:device_event_log_impl.cc(196)] [17:52:45.617] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_04e8&pid_6860#r3cwb0e1cfy#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[5064:22776:1024/220331.790:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[5064:276:1024/222313.396:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
-[5064:276:1024/222313.396:ERROR:device_event_log_impl.cc(196)] [22:23:13.396] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_04e8&pid_6860#r3cwb0e1cfy#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
-[5064:276:1024/222443.572:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11140:9024:1025/145251.346:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11140:9024:1025/145251.360:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Chiave non utilizzabile nello stato specificato. (0x8009000B)
+[11140:7552:1025/145251.380:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11140:9024:1025/145251.395:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11140:13028:1025/145257.280:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11140:12808:1025/145257.284:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11140:12808:1025/145257.285:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11140:12808:1025/145257.286:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Tommaso\Documents\GitHub\JustBe\JustBe\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11140:21064:1025/145257.809:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[11140:21064:1025/145257.816:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13588:1940:1025/145301.399:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DF7B29DD954BE6CB7341F6AB2804E50D will be ignored
+[6436:13364:1025/145301.843:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6436:13364:1025/145301.843:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/145302.080:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/145302.084:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/145330.978:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/145336.506:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/151505.271:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/151505.936:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/151519.545:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/151528.424:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6436:13364:1025/152736.364:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152736.398:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152736.462:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152736.494:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152744.081:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152747.377:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152758.154:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/152758.830:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/154827.083:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6436:13364:1025/154827.114:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/154836.914:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6436:13364:1025/154849.736:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11140:21212:1025/160334.966:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11140:21212:1025/160620.566:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[11140:9024:1025/164526.361:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,2 +1,3 @@
-2026/10/23-10:12:44.626 5028 Creating DB C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/10/23-10:12:44.645 5028 Reusing MANIFEST C:\Users\PC_A269\Crazy FPS game\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/24-13:34:38.032 31f0 Reusing MANIFEST C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/24-13:34:38.039 31f0 Recovering log #3
+2026/10/24-13:34:38.041 31f0 Reusing old log C:\Users\matti\Level Design\JustBe\JustBe\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
