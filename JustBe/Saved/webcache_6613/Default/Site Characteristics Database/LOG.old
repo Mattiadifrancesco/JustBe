@@ -1,5 +1,6 @@
-2026/10/26-11:13:04.582 e44 Log #3: 2 ops saved to Table #4 OK
-2026/10/26-11:13:04.584 e44 Archiving C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/10/26-11:13:04.584 e44 Table #4: 2 entries OK
-2026/10/26-11:13:04.585 e44 Archiving C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/10/26-11:13:04.594 e44 **** Repaired leveldb C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/10/26-11:59:18.662 854 Log #6: 1 ops saved to Table #7 OK
+2026/10/26-11:59:18.664 854 Archiving C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/10/26-11:59:18.664 854 Table #4: 2 entries OK
+2026/10/26-11:59:18.664 854 Table #7: 1 entries OK
+2026/10/26-11:59:18.666 854 Archiving C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/10/26-11:59:18.670 854 **** Repaired leveldb C:\Users\PC_A267\Documents\Unreal Projects\JustBe\JustBe\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
