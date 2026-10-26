@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/FinalLevels/LVL_Tutorial.umap",
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/FinalLevels/LVL_Village.umap",
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/MicheleAssets/Fab/Chandelier/sm_chandelier/Materials/M_Chandelier.uasset",
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/MicheleAssets/Fab/Chandelier/sm_chandelier/StaticMeshes/sm_chandelier.uasset",
+				"C:/Users/PC_A289/Documents/GitHub/JustBe/JustBe/Content/MicheleAssets/FreeStoneWall01A/Materials/MI_FreeStoneWall01A7.uasset"
+			]
+		}
+	]
+}
