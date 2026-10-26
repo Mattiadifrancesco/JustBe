@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC_A267/Documents/Unreal Projects/JustBe/JustBe/Content/TommasoContent/VFX/VFX_PNG/PNG_BossTears.uasset",
+				"C:/Users/PC_A267/Documents/Unreal Projects/JustBe/JustBe/Content/TommasoContent/VFX/VFX_Materials/T_EnemyGroundWave.uasset",
+				"C:/Users/PC_A267/Documents/Unreal Projects/JustBe/JustBe/Content/TommasoContent/VFX/VFX_TearSplitImpact.uasset",
+				"C:/Users/PC_A267/Documents/Unreal Projects/JustBe/JustBe/Content/TommasoContent/VFX/VFX_Materials/M_SlashBrush1.uasset",
 				"C:/Users/PC_A269/Crazy FPS game/JustBe/JustBe/Content/MyContent/Blueprint/BP_PlayerCharacter.uasset",
 				"C:/Users/PC_A269/Crazy FPS game/JustBe/JustBe/Content/MyContent/Levels/LVL_TestingZone.umap",
 				"C:/Users/PC_A269/Crazy FPS game/JustBe/JustBe/Content/MyContent/Blueprint/Struct/BPC_MaskSystem.uasset",
